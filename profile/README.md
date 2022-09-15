@@ -11,4 +11,6 @@
 
 * [CEDAR Developer Documentation](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-technical-documentation) Provides detailed documentation for developers who wish to work with the CEDAR system.
 
+* [Cedar Installation Iinstructions](https://metadatacenter.readthedocs.io/en/latest/) This step-by-step guide gives instructions for creating a new CEDAR deployment.
+
 * [CEDAR Release Notes](https://github.com/metadatacenter/cedar-project/releases) These notes describe each release of the CEDAR system.
