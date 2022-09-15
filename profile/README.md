@@ -9,18 +9,6 @@
 
 * [CEDAR APIs](https://more.metadatacenter.org/tools-training/cedar-api) Gives a high-level overview of the APIs provided by CEDAR.
 
+* [CEDAR Developer Documentation](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-technical-documentation) Provides detailed documentation for developers who wish to work with the CEDAR system.
+
 * [CEDAR Release Notes](https://github.com/metadatacenter/cedar-project/releases) These notes describe each release of the CEDAR system.
-
-## Developer-Focused Resources
-
-
-* [Getting Started with CEDAR REST APIs](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-REST-APIs) Instructions for interacting with CEDAR REST services
-
-* [Processing CEDAR Metadata Instances](https://github.com/metadatacenter/cedar-docs/wiki/Processing-CEDAR-Template-Instances) Examples of how JSON Schema-based code generation tools can be used to read and write CEDAR metadata instances.
-
-* [Creating CEDAR Metadata Instances](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-Template,-Element,-and-Field-Instances) Description of programmatically creating CEDAR template, element and field instances.
-
-* [Creating CEDAR Templates, Elements and Fields](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-Template,-Element,-and-Fields) Description of programmatically creating CEDAR templates, elements and fields.
-
-
-
