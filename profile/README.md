@@ -1,9 +1,9 @@
 
 ## Core CEDAR Documentation
 
-* [CEDAR User Guide](https://metadatacenter.github.io/cedar-manual/). This is the main user guide for the CEDAR system.
+* [CEDAR User Guide](https://metadatacenter.github.io/cedar-manual/) This is the main user guide for the CEDAR system.
 
-* [CEDAR Repository Model](https://metadatacenter.org/tools-training/outreach/cedar-template-model). This document describes the CEDAR repository model, which defines the representation of all CEDAR metadata artifacts, such as templates, elements, fields and the metadata instances themselves. A quick introduction to this model can be found in [the following paper](https://metadatacenter.org/open-repository-model-acquiring-knowledge-about-scientific-experiments). 
+* [CEDAR Repository Model](https://metadatacenter.org/tools-training/outreach/cedar-template-model) This document describes the CEDAR repository model, which defines the representation of all CEDAR metadata artifacts, such as templates, elements, fields and the metadata instances themselves. A quick introduction to this model can be found in [the following paper](https://metadatacenter.org/open-repository-model-acquiring-knowledge-about-scientific-experiments). 
 
 * [CEDAR REST APIs](https://resource.metadatacenter.org/api/) An introduction to using these APIs can be found [here](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-REST-APIs).
 
@@ -11,7 +11,7 @@
 
 ## Developer-Focused Documentation
 
-* [CEDAR architecture diagram](https://github.com/metadatacenter/cedar-docs/blob/develop/diagrams/cedar_architecture/CEDAR%20Architecture.pdf) A high-level architectural overview of the CEDAR system.
+* [CEDAR Architecture Diagram](https://github.com/metadatacenter/cedar-docs/blob/develop/diagrams/cedar_architecture/CEDAR%20Architecture.pdf) A high-level architectural overview of the CEDAR system.
 
 * [Getting Started with CEDAR REST APIs](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-REST-APIs). Instructions for interacting with CEDAR REST services
 
