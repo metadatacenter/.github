@@ -1,5 +1,7 @@
 
-## Core CEDAR Documentation
+## CEDAR Introduction
+
+* [Top-level CEDAR Site](https://metadatacenter.org/) This provides a high-level overview of the CEDAR system.
 
 * [CEDAR User Guide](https://metadatacenter.github.io/cedar-manual/) This is the main user guide for the CEDAR system.
 
