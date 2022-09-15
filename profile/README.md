@@ -13,7 +13,6 @@
 
 ## Developer-Focused Documentation
 
-* [CEDAR Architecture Diagram](https://github.com/metadatacenter/cedar-docs/blob/develop/diagrams/cedar_architecture/CEDAR%20Architecture.pdf) A high-level architectural overview of the CEDAR system.
 
 * [Getting Started with CEDAR REST APIs](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-REST-APIs) Instructions for interacting with CEDAR REST services
 
