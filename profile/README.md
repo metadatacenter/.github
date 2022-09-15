@@ -1,7 +1,7 @@
 
 ## CEDAR Resources
 
-* [Top-level CEDAR Introduction](https://metadatacenter.org/) This provides a high-level introduction to the goals of the CEDAR system.
+* [CEDAR Introduction](https://metadatacenter.org/) This provides a high-level introduction to the goals of the CEDAR system.
 
 * [CEDAR User Guide](https://metadatacenter.github.io/cedar-manual/) This is the main user guide for the CEDAR system.
 
