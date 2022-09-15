@@ -1,5 +1,5 @@
 
-## CEDAR Introduction
+## CEDAR Resources
 
 * [Top-level CEDAR Introduction](https://metadatacenter.org/) This provides a high-level introduction to the goals of the CEDAR system.
 
@@ -11,7 +11,7 @@
 
 * [CEDAR Release Notes](https://github.com/metadatacenter/cedar-project/releases) These notes describe each release of the CEDAR system.
 
-## Developer-Focused Documentation
+## Developer-Focused Resources
 
 
 * [Getting Started with CEDAR REST APIs](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-REST-APIs) Instructions for interacting with CEDAR REST services
