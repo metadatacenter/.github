@@ -14,3 +14,5 @@
 * [Cedar Installation Instructions](https://metadatacenter.readthedocs.io/en/latest/) This step-by-step guide gives instructions for creating a new CEDAR deployment.
 
 * [CEDAR Release Notes](https://github.com/metadatacenter/cedar-project/releases) These notes describe each release of the CEDAR system.
+
+* [Comprehensive CEDAR References](https://metadatacenter.org/references) All the other CEDAR documentation you might ever want
