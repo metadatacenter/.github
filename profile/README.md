@@ -9,7 +9,7 @@
 
 * [CEDAR APIs](https://more.metadatacenter.org/tools-training/cedar-api) Gives a high-level overview of the APIs provided by CEDAR and includes an architectural overview of the system.
 
-* [CEDAR Developer Documentation](https://github.com/metadatacenter/cedar-docs/wiki/CEDAR-technical-documentation) Provides detailed documentation for developers who wish to work with the CEDAR system.
+* [CEDAR Developer Documentation](https://metadatacenter.readthedocs.io/en/latest/developer-overview/) Provides detailed documentation for developers who wish to work with the CEDAR system.
 
 * [Cedar Installation Instructions](https://metadatacenter.readthedocs.io/en/latest/) This step-by-step guide gives instructions for creating a new CEDAR deployment.
 
